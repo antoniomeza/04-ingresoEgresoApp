@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ingresos-egreso-app-25c3d": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "ingresos-egreso-app-25c3d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ingresos-egreso-app-25c3d"
+  }
+}
